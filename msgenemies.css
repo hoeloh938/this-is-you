@@ -1,8 +1,19 @@
 body {
-    background-color: lightblue;
+    background-color: white;
 }
 
 h1 {
-    color: blue;
+    color: red;
     text-align: center;
+}
+
+body {
+    color: red;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
 }
